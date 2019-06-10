@@ -1,7 +1,7 @@
-package com.patsnap.spring.cloud.ribbon.predicate;
+package com.shf.spring.cloud.ribbon.predicate;
 
-import com.patsnap.spring.cloud.ribbon.support.RibbonFilterContext;
-import com.patsnap.spring.cloud.ribbon.support.RibbonFilterContextHolder;
+import com.shf.spring.cloud.ribbon.support.RibbonFilterContext;
+import com.shf.spring.cloud.ribbon.support.RibbonFilterContextHolder;
 
 import org.springframework.cloud.consul.discovery.ConsulServer;
 

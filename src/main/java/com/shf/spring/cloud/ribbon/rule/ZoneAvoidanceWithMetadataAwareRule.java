@@ -1,7 +1,7 @@
-package com.patsnap.spring.cloud.ribbon.rule;
+package com.shf.spring.cloud.ribbon.rule;
 
-import com.patsnap.spring.cloud.ribbon.predicate.ConsulServerPredicate;
-import com.patsnap.spring.cloud.ribbon.predicate.MetadataAwarePredicate;
+import com.shf.spring.cloud.ribbon.predicate.ConsulServerPredicate;
+import com.shf.spring.cloud.ribbon.predicate.MetadataAwarePredicate;
 
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.AbstractServerPredicate;

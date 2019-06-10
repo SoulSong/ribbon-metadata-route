@@ -1,4 +1,4 @@
-package com.patsnap.spring.cloud.ribbon.support;
+package com.shf.spring.cloud.ribbon.support;
 
 import java.util.Collections;
 import java.util.HashMap;

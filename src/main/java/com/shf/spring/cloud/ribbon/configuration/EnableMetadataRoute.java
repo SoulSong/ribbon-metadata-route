@@ -1,4 +1,4 @@
-package com.patsnap.spring.cloud.ribbon.configuration;
+package com.shf.spring.cloud.ribbon.configuration;
 
 import org.springframework.context.annotation.Import;
 

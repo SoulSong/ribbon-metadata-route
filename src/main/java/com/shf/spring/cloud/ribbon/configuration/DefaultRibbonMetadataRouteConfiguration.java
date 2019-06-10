@@ -1,7 +1,7 @@
-package com.patsnap.spring.cloud.ribbon.configuration;
+package com.shf.spring.cloud.ribbon.configuration;
 
-import com.patsnap.spring.cloud.ribbon.rule.ZoneAvoidanceWithMetadataAwareRule;
-import com.patsnap.spring.cloud.ribbon.support.RibbonFilterContextHolder;
+import com.shf.spring.cloud.ribbon.rule.ZoneAvoidanceWithMetadataAwareRule;
+import com.shf.spring.cloud.ribbon.support.RibbonFilterContextHolder;
 
 import com.netflix.loadbalancer.IRule;
 

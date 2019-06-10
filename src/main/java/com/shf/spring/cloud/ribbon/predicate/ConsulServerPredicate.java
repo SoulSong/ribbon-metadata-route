@@ -1,4 +1,4 @@
-package com.patsnap.spring.cloud.ribbon.predicate;
+package com.shf.spring.cloud.ribbon.predicate;
 
 import com.netflix.loadbalancer.AbstractServerPredicate;
 import com.netflix.loadbalancer.PredicateKey;

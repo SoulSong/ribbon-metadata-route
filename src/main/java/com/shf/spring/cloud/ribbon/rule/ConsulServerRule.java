@@ -1,6 +1,6 @@
-package com.patsnap.spring.cloud.ribbon.rule;
+package com.shf.spring.cloud.ribbon.rule;
 
-import com.patsnap.spring.cloud.ribbon.predicate.ConsulServerPredicate;
+import com.shf.spring.cloud.ribbon.predicate.ConsulServerPredicate;
 
 import com.netflix.loadbalancer.AbstractServerPredicate;
 import com.netflix.loadbalancer.AvailabilityPredicate;
